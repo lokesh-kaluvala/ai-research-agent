@@ -1,0 +1,27 @@
+# Streamlit
+streamlit==1.41.1
+
+# Core LangChain dependencies
+langchain==0.3.13
+langchain-openai==0.2.14
+langchain-community==0.3.13
+langchain-core==0.3.28
+
+# LangGraph for agent orchestration
+langgraph==0.2.64
+
+# Search tool
+tavily-python==0.5.0
+
+# OpenAI
+openai==1.59.6
+
+# Support libraries
+httpx==0.28.1
+pydantic==2.10.4
+pydantic-core==2.27.2
+python-dotenv==1.0.1
+
+# Optional enhancements
+plotly==5.24.1  # For future data visualizations
+pandas==2.2.3  # For data processing
